@@ -22,21 +22,11 @@ Kagent:
 ## Project Structure
 Assignment Submission Jake Martins/
 ├── project1/
-│   ├── screenshots/
-│   │   ├── kind-cluster.png
-│   │   ├── ollama-pod.png
-│   │   ├── kagent-agent.png
-│   │   └── agent-interaction.png
 │   ├── yaml/
 │   │   ├── modelconfig.yaml
 │   │   └── agent.yaml
 │   └── report.md
 ├── project2/
-│   ├── screenshots/
-│   │   ├── agentgateway-pods.png
-│   │   ├── gateway-resources.png
-│   │   ├── traffic-policy.png
-│   │   └── agent-using-gateway.png
 │   ├── yaml/
 │   │   ├── gateway.yaml
 │   │   ├── backend.yaml
@@ -46,3 +36,4 @@ Assignment Submission Jake Martins/
 │   └── report.md
 
 └── README.md
+
