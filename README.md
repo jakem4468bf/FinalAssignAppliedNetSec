@@ -20,7 +20,7 @@ Kubernetes:
 Kagent:
 * v0.7.5
 ## Project Structure
-Assignment Submission Jake Martins/
+FinalAssignAppliedNetSec/
 ├── project1/
 │   ├── yaml/
 │   │   ├── modelconfig.yaml
@@ -36,4 +36,5 @@ Assignment Submission Jake Martins/
 │   └── report.md
 
 └── README.md
+
 
